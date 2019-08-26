@@ -1,4 +1,4 @@
-# es6day02
+#vueproject
 
 > A Vue.js project
 
